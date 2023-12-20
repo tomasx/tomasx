@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomas
-- 👀 I’m interested in building data apps with Python
-- 🌱 I’m currently learning Google Cloud Platform
-- 💞️ I’m looking to collaborate on anything fun with Python 
+- 👀 I’m interested in building data piplines and apps with Python
+- 🌱 I’m currently learning LLMs and AI app building
+- 💞️ I’m looking to collaborate on anything fun with Python
 - 📫 How to reach me tomasx@live.com
